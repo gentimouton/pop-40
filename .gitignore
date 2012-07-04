@@ -1,1 +1,10 @@
+#python bins 
 *.pyc
+*~
+
+#eclipse prefs
+.settings
+.pydevproject
+
+#logs
+*.log

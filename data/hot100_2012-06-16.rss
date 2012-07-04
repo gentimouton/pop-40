@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Billboard Hot 100 Chart</title>
+    <link>http://www.billboard.com/</link>
+    <description />
+    <item>
+      <title>1: Somebody That I Used To Know, Gotye Featuring Kimbra</title>
+      <link>http://www.billboard.com/charts/hot-100</link>
+      <description>Somebody That I Used To Know by Gotye Featuring Kimbra ranks #1</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 16 Jun 2012 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2012-06-16 00:00:00.0-43363895</guid>
+    </item>
+    <item>
+      <title>2: Call Me Maybe, Carly Rae Jepsen</title>
+      <link>http://www.billboard.com/charts/hot-100</link>
+      <description>Call Me Maybe by Carly Rae Jepsen ranks #2</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 16 Jun 2012 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2012-06-16 00:00:00.0-43363905</guid>
+    </item>
+  </channel>
+</rss>
+
