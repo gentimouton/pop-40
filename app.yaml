@@ -4,10 +4,18 @@ runtime: python27
 api_version: 1
 threadsafe: true
 
+# see http://code.google.com/p/rietveld/source/browse/app.yaml
+# and https://developers.google.com/appengine/docs/python/config/appconfig
+
 handlers:
+
+- url: /static
+  static_dir: static
+  
 - url: /.*
   script: main.app
 
+  
 libraries:
 - name: jinja2
   version: latest

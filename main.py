@@ -7,5 +7,5 @@ logging.getLogger().setLevel(logging.DEBUG)
 logging.info('App was loaded.')
 
 app = webapp.WSGIApplication([('/', MainPage),
-                              ('/pop40', Pop40Page)],
+                              ('/all', Pop40Page)],
                               debug=True)

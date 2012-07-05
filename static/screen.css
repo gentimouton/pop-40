@@ -1,0 +1,14 @@
+
+body {
+    margin: 0px;
+    padding: 0px;	
+}
+
+#footer {
+    text-align: center;
+    padding: 1em;
+}
+
+td {
+	border: 0px solid;
+}
