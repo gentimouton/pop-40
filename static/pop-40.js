@@ -1,14 +1,12 @@
 // display songs
-
 $(function() {
   $.getJSON('/all', function(data) {
-    console.log(data)
-
+    
     $.each(data, function(weekDate, rankings) {
       // build the rankings for that week
       var rows = []
       $.each(rankings, function(index, ranking) {
-        rows.push('<tr><td>' + ranking.rank + '</td><td>' + ranking.song
+        rows.push('<tr><td>' + ranking.rank + '</td><td>' + ranking.title
             + '</td><td>' + ranking.artist + '</td></tr>');
       });
       $('<div/>', {
