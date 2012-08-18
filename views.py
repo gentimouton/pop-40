@@ -1,5 +1,7 @@
 from google.appengine.ext import db
+from lib import dictify
 from models import week_key, Song
+import datetime
 import jinja2
 import json
 import logging
@@ -17,6 +19,7 @@ class MainPage(webapp.RequestHandler):
         self.response.out.write(template.render())
 
 
+########################## JSON #########################
 
 class Pop40Page(webapp.RequestHandler):
     def get(self):
@@ -24,26 +27,24 @@ class Pop40Page(webapp.RequestHandler):
         #self.response.out.write(json.dumps(rssloader.rssdata))
         
         week_date = '2012-06-16'
-                
-        # add a song to the db
-        song = Song(parent=week_key(week_date))
-        song.artist = 'Eminem'
-        song.title = 'Slim Shady'
-        song.rank = 5
-        song.put()
 
         # read
         songs = Song.gql("WHERE ANCESTOR IS :1 "
                          "ORDER BY rank DESC LIMIT 10",
                          week_key(week_date))
         res = {}
-        week = []
-        for song in songs:
-            sg = {'artist':song.artist,
-                  'rank':song.rank,
-                  'title':song.title}
-            week.append(sg)
-        res[week_date] = week
+        res[week_date] = [db.to_dict(song) for song in songs]
+        #res[week_date] = [dictify.to_dict(song) for song in songs]
         
-        self.response.out.write(json.dumps(res))
+        self.response.out.write(json.dumps(res, default=dthandler))
         
+
+# provide handler for converting datetime objects to json
+# from http://stackoverflow.com/a/2680060/856897
+def dthandler(obj):
+    if hasattr(obj, 'isoformat'):
+        return obj.isoformat()
+    else:
+        raise (TypeError,
+               'Object of type %s with value of %s is not JSON serializable' 
+               % (type(obj), repr(obj)))
