@@ -8,7 +8,7 @@ Phases
 ===
 
 phase 1
-- fetch weekly
+- fetch weekly (instead of wget -O filename http://www.billboard.com/rss/charts/hot-100)
 - store
 - display in smart and interesting ways
 - link/embed to play each song (grooveshark?)
