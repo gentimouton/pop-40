@@ -10,7 +10,7 @@ logging.info('App was loaded.')
 # check if the DB is storing all the available weeks
 for filename in os.listdir('data'):
     datestr = filename.split('_', 1)[1].rstrip('.rss')
-    week = Model.get_by_key_name(datestr)
+    week = Model.get_by_key_name(datestr) # TODO: this is not working
     if not week:
         logging.info(datestr + ' was missing')
 

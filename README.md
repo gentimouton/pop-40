@@ -4,6 +4,17 @@ pop-40
 A top40 web app on App Engine. Keep track of the 40 songs most played in the US, plot who joins/leaves over time, etc.
 
 
+How to
+====
+
+- download the appengine SDK https://developers.google.com/appengine/downloads#Google_App_Engine_SDK_for_Python
+- extract it in ~/appengine
+- get the app code from github
+- in the pop-40 directory, run ~/appengine/dev_appserver.py .
+- go to localhost:8080
+- localhost admin is http://localhost:8080/_ah/admin/
+
+
 Phases
 ===
 
