@@ -50,3 +50,9 @@ Libraries
 - jquery
 - graph lib for JS?
 
+
+Similar apps
+====
+
+http://www.simexchange.com/frontpage.php
+http://www.hsx.com/
