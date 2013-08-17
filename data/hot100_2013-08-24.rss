@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Billboard Hot 100 Chart</title>
+    <link>http://www1.billboard.com/</link>
+    <description />
+    <item>
+      <title>1: Blurred Lines, Robin Thicke Featuring T.I. + Pharrell</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Blurred Lines by Robin Thicke Featuring T.I. + Pharrell ranks #1</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764896</guid>
+    </item>
+    <item>
+      <title>2: We Can't Stop, Miley Cyrus</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>We Can't Stop by Miley Cyrus ranks #2</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764906</guid>
+    </item>
+    <item>
+      <title>3: Radioactive, Imagine Dragons</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Radioactive by Imagine Dragons ranks #3</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764916</guid>
+    </item>
+    <item>
+      <title>4: Get Lucky, Daft Punk Featuring Pharrell Williams</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Get Lucky by Daft Punk Featuring Pharrell Williams ranks #4</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764926</guid>
+    </item>
+    <item>
+      <title>5: Holy Grail, Jay Z Featuring Justin Timberlake</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Holy Grail by Jay Z Featuring Justin Timberlake ranks #5</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764936</guid>
+    </item>
+    <item>
+      <title>6: Cups (Pitch Perfect's When I'm Gone), Anna Kendrick</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Cups (Pitch Perfect's When I'm Gone) by Anna Kendrick ranks #6</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764946</guid>
+    </item>
+    <item>
+      <title>7: Treasure, Bruno Mars</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Treasure by Bruno Mars ranks #7</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764956</guid>
+    </item>
+    <item>
+      <title>8: Clarity, Zedd Featuring Foxes</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Clarity by Zedd Featuring Foxes ranks #8</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764966</guid>
+    </item>
+    <item>
+      <title>9: Safe And Sound, Capital Cities</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Safe And Sound by Capital Cities ranks #9</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764976</guid>
+    </item>
+    <item>
+      <title>10: Love Somebody, Maroon 5</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Love Somebody by Maroon 5 ranks #10</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764986</guid>
+    </item>
+    <item>
+      <title>11: Same Love, Macklemore &amp; Ryan Lewis Featuring Mary Lambert</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Same Love by Macklemore &amp; Ryan Lewis Featuring Mary Lambert ranks #11</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52764996</guid>
+    </item>
+    <item>
+      <title>12: Can't Hold Us, Macklemore &amp; Ryan Lewis Featuring Ray Dalton</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Can't Hold Us by Macklemore &amp; Ryan Lewis Featuring Ray Dalton ranks #12</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765006</guid>
+    </item>
+    <item>
+      <title>13: Mirrors, Justin Timberlake</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Mirrors by Justin Timberlake ranks #13</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765016</guid>
+    </item>
+    <item>
+      <title>14: Cruise, Florida Georgia Line Featuring Nelly</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Cruise by Florida Georgia Line Featuring Nelly ranks #14</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765026</guid>
+    </item>
+    <item>
+      <title>15: Wake Me Up!, Avicii</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Wake Me Up! by Avicii ranks #15</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765036</guid>
+    </item>
+    <item>
+      <title>16: Summertime Sadness, Lana Del Rey &amp; Cedric Gervais</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Summertime Sadness by Lana Del Rey &amp; Cedric Gervais ranks #16</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765046</guid>
+    </item>
+    <item>
+      <title>17: I Need Your Love, Calvin Harris Featuring Ellie Goulding</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>I Need Your Love by Calvin Harris Featuring Ellie Goulding ranks #17</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765056</guid>
+    </item>
+    <item>
+      <title>18: Best Song Ever, One Direction</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Best Song Ever by One Direction ranks #18</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765066</guid>
+    </item>
+    <item>
+      <title>19: The Other Side, Jason Derulo</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>The Other Side by Jason Derulo ranks #19</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765076</guid>
+    </item>
+    <item>
+      <title>20: The Way, Ariana Grande Featuring Mac Miller</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>The Way by Ariana Grande Featuring Mac Miller ranks #20</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765086</guid>
+    </item>
+    <item>
+      <title>21: Hold On, We're Going Home, Drake Featuring Majid Jordan</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Hold On, We're Going Home by Drake Featuring Majid Jordan ranks #21</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765096</guid>
+    </item>
+    <item>
+      <title>22: Just Give Me A Reason, P!nk Featuring Nate Ruess</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Just Give Me A Reason by P!nk Featuring Nate Ruess ranks #22</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765106</guid>
+    </item>
+    <item>
+      <title>23: Come &amp; Get It, Selena Gomez</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Come &amp; Get It by Selena Gomez ranks #23</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765116</guid>
+    </item>
+    <item>
+      <title>24: Royals, Lorde</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Royals by Lorde ranks #24</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765126</guid>
+    </item>
+    <item>
+      <title>25: Gone, Gone, Gone, Phillip Phillips</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Gone, Gone, Gone by Phillip Phillips ranks #25</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765136</guid>
+    </item>
+    <item>
+      <title>26: I Want Crazy, Hunter Hayes</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>I Want Crazy by Hunter Hayes ranks #26</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765146</guid>
+    </item>
+    <item>
+      <title>27: Crash My Party, Luke Bryan</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Crash My Party by Luke Bryan ranks #27</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765156</guid>
+    </item>
+    <item>
+      <title>28: Sail, AWOLNATION</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Sail by AWOLNATION ranks #28</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765166</guid>
+    </item>
+    <item>
+      <title>29: Runnin' Outta Moonlight, Randy Houser</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Runnin' Outta Moonlight by Randy Houser ranks #29</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765176</guid>
+    </item>
+    <item>
+      <title>30: Don't Ya, Brett Eldredge</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Don't Ya by Brett Eldredge ranks #30</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765186</guid>
+    </item>
+    <item>
+      <title>31: Thrift Shop, Macklemore &amp; Ryan Lewis Featuring Wanz</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Thrift Shop by Macklemore &amp; Ryan Lewis Featuring Wanz ranks #31</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765196</guid>
+    </item>
+    <item>
+      <title>32: Gas Pedal, Sage The Gemini Featuring IamSu</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Gas Pedal by Sage The Gemini Featuring IamSu ranks #32</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765206</guid>
+    </item>
+    <item>
+      <title>33: Power Trip, J. Cole Featuring Miguel</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Power Trip by J. Cole Featuring Miguel ranks #33</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765216</guid>
+    </item>
+    <item>
+      <title>34: I Love It, Icona Pop Featuring Charli XCX</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>I Love It by Icona Pop Featuring Charli XCX ranks #34</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765226</guid>
+    </item>
+    <item>
+      <title>35: Body Party, Ciara</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Body Party by Ciara ranks #35</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765236</guid>
+    </item>
+    <item>
+      <title>36: Round Here, Florida Georgia Line</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Round Here by Florida Georgia Line ranks #36</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765246</guid>
+    </item>
+    <item>
+      <title>37: Stay, Rihanna Featuring Mikky Ekko</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Stay by Rihanna Featuring Mikky Ekko ranks #37</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765256</guid>
+    </item>
+    <item>
+      <title>38: Take Back The Night, Justin Timberlake</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Take Back The Night by Justin Timberlake ranks #38</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765266</guid>
+    </item>
+    <item>
+      <title>39: When I Was Your Man, Bruno Mars</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>When I Was Your Man by Bruno Mars ranks #39</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765276</guid>
+    </item>
+    <item>
+      <title>40: Don't Drop That Thun Thun!, The FiNATTiCZ</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Don't Drop That Thun Thun! by The FiNATTiCZ ranks #40</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765286</guid>
+    </item>
+    <item>
+      <title>41: See You Again, Carrie Underwood</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>See You Again by Carrie Underwood ranks #41</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765296</guid>
+    </item>
+    <item>
+      <title>42: Redneck Crazy, Tyler Farr</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Redneck Crazy by Tyler Farr ranks #42</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765306</guid>
+    </item>
+    <item>
+      <title>43: Little Bit Of Everything, Keith Urban</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Little Bit Of Everything by Keith Urban ranks #43</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765316</guid>
+    </item>
+    <item>
+      <title>44: U.O.E.N.O., Rocko Featuring Future &amp; Rick Ross</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>U.O.E.N.O. by Rocko Featuring Future &amp; Rick Ross ranks #44</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765326</guid>
+    </item>
+    <item>
+      <title>45: Bad, Wale Featuring Tiara Thomas Or Rihanna</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Bad by Wale Featuring Tiara Thomas Or Rihanna ranks #45</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765336</guid>
+    </item>
+    <item>
+      <title>46: Boys 'Round Here, Blake Shelton Featuring Pistol Annies &amp; Friends</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Boys 'Round Here by Blake Shelton Featuring Pistol Annies &amp; Friends ranks #46</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765346</guid>
+    </item>
+    <item>
+      <title>47: Night Train, Jason Aldean</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Night Train by Jason Aldean ranks #47</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765356</guid>
+    </item>
+    <item>
+      <title>48: Crooked Smile, J. Cole Featuring TLC</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Crooked Smile by J. Cole Featuring TLC ranks #48</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765366</guid>
+    </item>
+    <item>
+      <title>49: It Goes Like This, Thomas Rhett</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>It Goes Like This by Thomas Rhett ranks #49</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765376</guid>
+    </item>
+    <item>
+      <title>50: Ho Hey, The Lumineers</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Ho Hey by The Lumineers ranks #50</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765386</guid>
+    </item>
+    <item>
+      <title>51: Tapout, Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine, Nicki Minaj</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Tapout by Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine, Nicki Minaj ranks #51</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765396</guid>
+    </item>
+    <item>
+      <title>52: All Over The Road, Easton Corbin</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>All Over The Road by Easton Corbin ranks #52</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765406</guid>
+    </item>
+    <item>
+      <title>53: Hey Girl, Billy Currington</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Hey Girl by Billy Currington ranks #53</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765416</guid>
+    </item>
+    <item>
+      <title>54: Red Nose, Sage The Gemini</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Red Nose by Sage The Gemini ranks #54</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765426</guid>
+    </item>
+    <item>
+      <title>55: Beneath Your Beautiful, Labrinth Featuring Emeli Sande</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Beneath Your Beautiful by Labrinth Featuring Emeli Sande ranks #55</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765436</guid>
+    </item>
+    <item>
+      <title>56: Bubble Butt, Major Lazer Featuring Bruno Mars, Tyga &amp; Mystic</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Bubble Butt by Major Lazer Featuring Bruno Mars, Tyga &amp; Mystic ranks #56</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765446</guid>
+    </item>
+    <item>
+      <title>57: Still Into You, Paramore</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Still Into You by Paramore ranks #57</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765456</guid>
+    </item>
+    <item>
+      <title>58: Crazy Kids, Ke$ha Featuring will.i.am Or Juicy J</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Crazy Kids by Ke$ha Featuring will.i.am Or Juicy J ranks #58</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765466</guid>
+    </item>
+    <item>
+      <title>59: Hopeless Wanderer, Mumford &amp; Sons</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Hopeless Wanderer by Mumford &amp; Sons ranks #59</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765476</guid>
+    </item>
+    <item>
+      <title>60: Counting Stars, OneRepublic</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Counting Stars by OneRepublic ranks #60</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765486</guid>
+    </item>
+    <item>
+      <title>61: Everything Has Changed, Taylor Swift Featuring Ed Sheeran</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Everything Has Changed by Taylor Swift Featuring Ed Sheeran ranks #61</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765496</guid>
+    </item>
+    <item>
+      <title>62: Right Now, Rihanna Featuring David Guetta</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Right Now by Rihanna Featuring David Guetta ranks #62</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765506</guid>
+    </item>
+    <item>
+      <title>63: Ain't Worried About Nothin, French Montana</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Ain't Worried About Nothin by French Montana ranks #63</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765516</guid>
+    </item>
+    <item>
+      <title>64: HeadBand, B.o.B Featuring 2 Chainz</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>HeadBand by B.o.B Featuring 2 Chainz ranks #64</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765526</guid>
+    </item>
+    <item>
+      <title>65: Point At You, Justin Moore</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Point At You by Justin Moore ranks #65</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765536</guid>
+    </item>
+    <item>
+      <title>66: Brave, Sara Bareilles</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Brave by Sara Bareilles ranks #66</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765546</guid>
+    </item>
+    <item>
+      <title>67: Feds Watching, 2 Chainz Featuring Pharrell</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Feds Watching by 2 Chainz Featuring Pharrell ranks #67</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765556</guid>
+    </item>
+    <item>
+      <title>68: Parking Lot Party, Lee Brice</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Parking Lot Party by Lee Brice ranks #68</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765566</guid>
+    </item>
+    <item>
+      <title>69: True Love, P!nk Featuring Lily Allen</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>True Love by P!nk Featuring Lily Allen ranks #69</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765576</guid>
+    </item>
+    <item>
+      <title>70: Type Of Way, Rich Homie Quan</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Type Of Way by Rich Homie Quan ranks #70</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765586</guid>
+    </item>
+    <item>
+      <title>71: No New Friends (SFTB Remix), DJ Khaled Featuring Drake, Rick Ross &amp; Lil Wayne</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>No New Friends (SFTB Remix) by DJ Khaled Featuring Drake, Rick Ross &amp; Lil Wayne ranks #71</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765596</guid>
+    </item>
+    <item>
+      <title>72: Southern Girl, Tim McGraw</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Southern Girl by Tim McGraw ranks #72</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765606</guid>
+    </item>
+    <item>
+      <title>73: #Beautiful, Mariah Carey Featuring Miguel</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>#Beautiful by Mariah Carey Featuring Miguel ranks #73</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765616</guid>
+    </item>
+    <item>
+      <title>74: Aw Naw, Chris Young</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Aw Naw by Chris Young ranks #74</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765626</guid>
+    </item>
+    <item>
+      <title>75: Mine Would Be You, Blake Shelton</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Mine Would Be You by Blake Shelton ranks #75</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765636</guid>
+    </item>
+    <item>
+      <title>76: Tom Ford, Jay Z</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Tom Ford by Jay Z ranks #76</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765646</guid>
+    </item>
+    <item>
+      <title>77: Acapella, Karmin</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Acapella by Karmin ranks #77</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765656</guid>
+    </item>
+    <item>
+      <title>78: Turn The Night Up, Enrique Iglesias</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Turn The Night Up by Enrique Iglesias ranks #78</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765666</guid>
+    </item>
+    <item>
+      <title>79: Beware, Big Sean Featuring Lil Wayne &amp; Jhene Aiko</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Beware by Big Sean Featuring Lil Wayne &amp; Jhene Aiko ranks #79</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765676</guid>
+    </item>
+    <item>
+      <title>80: Wop, J. Dash</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Wop by J. Dash ranks #80</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765686</guid>
+    </item>
+    <item>
+      <title>81: How Many Drinks?, Miguel</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>How Many Drinks? by Miguel ranks #81</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765696</guid>
+    </item>
+    <item>
+      <title>82: Sweater Weather, The Neighbourhood</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Sweater Weather by The Neighbourhood ranks #82</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765706</guid>
+    </item>
+    <item>
+      <title>83: Miss Movin' On, Fifth Harmony</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Miss Movin' On by Fifth Harmony ranks #83</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765716</guid>
+    </item>
+    <item>
+      <title>84: Right There, Ariana Grande Featuring Big Sean</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Right There by Ariana Grande Featuring Big Sean ranks #84</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765726</guid>
+    </item>
+    <item>
+      <title>85: Roar, Katy Perry</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Roar by Katy Perry ranks #85</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765736</guid>
+    </item>
+    <item>
+      <title>86: Let Her Go, Passenger</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Let Her Go by Passenger ranks #86</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765746</guid>
+    </item>
+    <item>
+      <title>87: Goodbye Town, Lady Antebellum</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Goodbye Town by Lady Antebellum ranks #87</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765756</guid>
+    </item>
+    <item>
+      <title>88: Beat It, Sean Kingston Featuring Chris Brown &amp; Wiz Khalifa</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Beat It by Sean Kingston Featuring Chris Brown &amp; Wiz Khalifa ranks #88</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765766</guid>
+    </item>
+    <item>
+      <title>89: Made In The USA, Demi Lovato</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Made In The USA by Demi Lovato ranks #89</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765776</guid>
+    </item>
+    <item>
+      <title>90: Love More, Chris Brown Featuring Nicki Minaj</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Love More by Chris Brown Featuring Nicki Minaj ranks #90</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765786</guid>
+    </item>
+    <item>
+      <title>91: LoveHate Thing, Wale Featuring Sam Dew</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>LoveHate Thing by Wale Featuring Sam Dew ranks #91</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765796</guid>
+    </item>
+    <item>
+      <title>92: What About Love, Austin Mahone</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>What About Love by Austin Mahone ranks #92</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765806</guid>
+    </item>
+    <item>
+      <title>93: When I See This Bar, Kenny Chesney</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>When I See This Bar by Kenny Chesney ranks #93</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765816</guid>
+    </item>
+    <item>
+      <title>94: Chloe (You're The One I Want), Emblem3</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Chloe (You're The One I Want) by Emblem3 ranks #94</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765826</guid>
+    </item>
+    <item>
+      <title>95: Young And Beautiful, Lana Del Rey</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Young And Beautiful by Lana Del Rey ranks #95</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765836</guid>
+    </item>
+    <item>
+      <title>96: F*ckwithmeyouknowigotit, Jay Z Featuring Rick Ross</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>F*ckwithmeyouknowigotit by Jay Z Featuring Rick Ross ranks #96</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765846</guid>
+    </item>
+    <item>
+      <title>97: Easy, Sheryl Crow</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Easy by Sheryl Crow ranks #97</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765856</guid>
+    </item>
+    <item>
+      <title>98: Cruisin' For A Bruisin', Ross Lynch, Grace Phipps And Jason Evigan</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Cruisin' For A Bruisin' by Ross Lynch, Grace Phipps And Jason Evigan ranks #98</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765866</guid>
+    </item>
+    <item>
+      <title>99: Vivir Mi Vida, Marc Anthony</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Vivir Mi Vida by Marc Anthony ranks #99</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765876</guid>
+    </item>
+    <item>
+      <title>100: Red, Taylor Swift</title>
+      <link>http://www1.billboard.com/charts/hot-100</link>
+      <description>Red by Taylor Swift ranks #100</description>
+      <category>Hot 100</category>
+      <pubDate>Sat, 24 Aug 2013 04:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2013-08-24 00:00:00.0-52765886</guid>
+    </item>
+  </channel>
+</rss>
+
