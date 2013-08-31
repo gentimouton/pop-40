@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.billboard.com/charts/hot-100" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:c="http://s.opencalais.com/1/pred/" xmlns:sys="http://s.opencalais.com/1/type/sys/" xmlns:lid="http://s.opencalais.com/1/type/lid/" xmlns:cat="http://s.opencalais.com/1/type/cat/" xmlns:resolved="http://s.opencalais.com/1/type/er/" xmlns:cgeo="http://s.opencalais.com/1/type/er/Geo/" xmlns:eventfact="http://s.opencalais.com/1/type/em/r/" xmlns:entity="http://s.opencalais.com/1/type/em/e/" xmlns:cld="http://s.opencalais.com/1/linkeddata/pred/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Billboard - The Hot 100 Chart</title>
+    <link>http://www.billboard.com</link>
+    <description>The week's most popular current songs across all genres, ranked by radio airplay audience impressions as measured by Nielsen BDS, sales data as compiled by Nielsen SoundScan and streaming activity data from online music sources tracked by Nielsen BDS. Songs are defined as current if they are newly-released titles, or songs receiving widespread airplay and/or sales activity for the first time.</description>
+    <language>en</language>
+    <item>
+  <title>1: Blurred Lines</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Robin Thicke Featuring T.I. + Pharrell</artist>
+  <chart_item_title>Blurred Lines</chart_item_title>
+  <rank_this_week>1</rank_this_week>
+  <rank_last_week>1</rank_last_week>
+  <description>Blurred Lines by Robin Thicke Featuring T.I. + Pharrell ranks #1</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>2: Roar</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Katy Perry</artist>
+  <chart_item_title>Roar</chart_item_title>
+  <rank_this_week>2</rank_this_week>
+  <rank_last_week>2</rank_last_week>
+  <description>Roar by Katy Perry ranks #2</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>3: We Can&#039;t Stop</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Miley Cyrus</artist>
+  <chart_item_title>We Can&#039;t Stop</chart_item_title>
+  <rank_this_week>3</rank_this_week>
+  <rank_last_week>3</rank_last_week>
+  <description>We Can&#039;t Stop by Miley Cyrus ranks #3</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>4: Applause</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lady Gaga</artist>
+  <chart_item_title>Applause</chart_item_title>
+  <rank_this_week>4</rank_this_week>
+  <rank_last_week>6</rank_last_week>
+  <description>Applause by Lady Gaga ranks #4</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>5: Radioactive</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Imagine Dragons</artist>
+  <chart_item_title>Radioactive</chart_item_title>
+  <rank_this_week>5</rank_this_week>
+  <rank_last_week>4</rank_last_week>
+  <description>Radioactive by Imagine Dragons ranks #5</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>6: Holy Grail</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Jay Z Featuring Justin Timberlake</artist>
+  <chart_item_title>Holy Grail</chart_item_title>
+  <rank_this_week>6</rank_this_week>
+  <rank_last_week>5</rank_last_week>
+  <description>Holy Grail by Jay Z Featuring Justin Timberlake ranks #6</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>7: Wake Me Up!</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Avicii</artist>
+  <chart_item_title>Wake Me Up!</chart_item_title>
+  <rank_this_week>7</rank_this_week>
+  <rank_last_week>11</rank_last_week>
+  <description>Wake Me Up! by Avicii ranks #7</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>8: Safe And Sound</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Capital Cities</artist>
+  <chart_item_title>Safe And Sound</chart_item_title>
+  <rank_this_week>8</rank_this_week>
+  <rank_last_week>10</rank_last_week>
+  <description>Safe And Sound by Capital Cities ranks #8</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>9: Summertime Sadness</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lana Del Rey &amp; Cedric Gervais</artist>
+  <chart_item_title>Summertime Sadness</chart_item_title>
+  <rank_this_week>9</rank_this_week>
+  <rank_last_week>15</rank_last_week>
+  <description>Summertime Sadness by Lana Del Rey &amp; Cedric Gervais ranks #9</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>10: Get Lucky</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Daft Punk Featuring Pharrell Williams</artist>
+  <chart_item_title>Get Lucky</chart_item_title>
+  <rank_this_week>10</rank_this_week>
+  <rank_last_week>7</rank_last_week>
+  <description>Get Lucky by Daft Punk Featuring Pharrell Williams ranks #10</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>11: Treasure</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Bruno Mars</artist>
+  <chart_item_title>Treasure</chart_item_title>
+  <rank_this_week>11</rank_this_week>
+  <rank_last_week>8</rank_last_week>
+  <description>Treasure by Bruno Mars ranks #11</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>12: Royals</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lorde</artist>
+  <chart_item_title>Royals</chart_item_title>
+  <rank_this_week>12</rank_this_week>
+  <rank_last_week>17</rank_last_week>
+  <description>Royals by Lorde ranks #12</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>13: Clarity</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Zedd Featuring Foxes</artist>
+  <chart_item_title>Clarity</chart_item_title>
+  <rank_this_week>13</rank_this_week>
+  <rank_last_week>12</rank_last_week>
+  <description>Clarity by Zedd Featuring Foxes ranks #13</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>14: Cups (Pitch Perfect&#039;s When I&#039;m Gone)</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Anna Kendrick</artist>
+  <chart_item_title>Cups (Pitch Perfect&#039;s When I&#039;m Gone)</chart_item_title>
+  <rank_this_week>14</rank_this_week>
+  <rank_last_week>9</rank_last_week>
+  <description>Cups (Pitch Perfect&#039;s When I&#039;m Gone) by Anna Kendrick ranks #14</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>15: Same Love</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Macklemore &amp; Ryan Lewis Featuring Mary Lambert</artist>
+  <chart_item_title>Same Love</chart_item_title>
+  <rank_this_week>15</rank_this_week>
+  <rank_last_week>14</rank_last_week>
+  <description>Same Love by Macklemore &amp; Ryan Lewis Featuring Mary Lambert ranks #15</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>16: Love Somebody</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Maroon 5</artist>
+  <chart_item_title>Love Somebody</chart_item_title>
+  <rank_this_week>16</rank_this_week>
+  <rank_last_week>13</rank_last_week>
+  <description>Love Somebody by Maroon 5 ranks #16</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>17: Hold On, We&#039;re Going Home</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Drake Featuring Majid Jordan</artist>
+  <chart_item_title>Hold On, We&#039;re Going Home</chart_item_title>
+  <rank_this_week>17</rank_this_week>
+  <rank_last_week>24</rank_last_week>
+  <description>Hold On, We&#039;re Going Home by Drake Featuring Majid Jordan ranks #17</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>18: Best Song Ever</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>One Direction</artist>
+  <chart_item_title>Best Song Ever</chart_item_title>
+  <rank_this_week>18</rank_this_week>
+  <rank_last_week>21</rank_last_week>
+  <description>Best Song Ever by One Direction ranks #18</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>19: That&#039;s My Kind Of Night</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Luke Bryan</artist>
+  <chart_item_title>That&#039;s My Kind Of Night</chart_item_title>
+  <rank_this_week>19</rank_this_week>
+  <rank_last_week>16</rank_last_week>
+  <description>That&#039;s My Kind Of Night by Luke Bryan ranks #19</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>20: Can&#039;t Hold Us</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Macklemore &amp; Ryan Lewis Featuring Ray Dalton</artist>
+  <chart_item_title>Can&#039;t Hold Us</chart_item_title>
+  <rank_this_week>20</rank_this_week>
+  <rank_last_week>18</rank_last_week>
+  <description>Can&#039;t Hold Us by Macklemore &amp; Ryan Lewis Featuring Ray Dalton ranks #20</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>21: Mirrors</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Justin Timberlake</artist>
+  <chart_item_title>Mirrors</chart_item_title>
+  <rank_this_week>21</rank_this_week>
+  <rank_last_week>20</rank_last_week>
+  <description>Mirrors by Justin Timberlake ranks #21</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>22: I Need Your Love</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Calvin Harris Featuring Ellie Goulding</artist>
+  <chart_item_title>I Need Your Love</chart_item_title>
+  <rank_this_week>22</rank_this_week>
+  <rank_last_week>23</rank_last_week>
+  <description>I Need Your Love by Calvin Harris Featuring Ellie Goulding ranks #22</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>23: Cruise</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Florida Georgia Line Featuring Nelly</artist>
+  <chart_item_title>Cruise</chart_item_title>
+  <rank_this_week>23</rank_this_week>
+  <rank_last_week>19</rank_last_week>
+  <description>Cruise by Florida Georgia Line Featuring Nelly ranks #23</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>24: Gone, Gone, Gone</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Phillip Phillips</artist>
+  <chart_item_title>Gone, Gone, Gone</chart_item_title>
+  <rank_this_week>24</rank_this_week>
+  <rank_last_week>26</rank_last_week>
+  <description>Gone, Gone, Gone by Phillip Phillips ranks #24</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>25: Sail</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>AWOLNATION</artist>
+  <chart_item_title>Sail</chart_item_title>
+  <rank_this_week>25</rank_this_week>
+  <rank_last_week>29</rank_last_week>
+  <description>Sail by AWOLNATION ranks #25</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>26: The Way</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Ariana Grande Featuring Mac Miller</artist>
+  <chart_item_title>The Way</chart_item_title>
+  <rank_this_week>26</rank_this_week>
+  <rank_last_week>27</rank_last_week>
+  <description>The Way by Ariana Grande Featuring Mac Miller ranks #26</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>27: Just Give Me A Reason</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>P!nk Featuring Nate Ruess</artist>
+  <chart_item_title>Just Give Me A Reason</chart_item_title>
+  <rank_this_week>27</rank_this_week>
+  <rank_last_week>28</rank_last_week>
+  <description>Just Give Me A Reason by P!nk Featuring Nate Ruess ranks #27</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>28: The Other Side</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Jason Derulo</artist>
+  <chart_item_title>The Other Side</chart_item_title>
+  <rank_this_week>28</rank_this_week>
+  <rank_last_week>25</rank_last_week>
+  <description>The Other Side by Jason Derulo ranks #28</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>29: Gas Pedal</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Sage The Gemini Featuring IamSu</artist>
+  <chart_item_title>Gas Pedal</chart_item_title>
+  <rank_this_week>29</rank_this_week>
+  <rank_last_week>35</rank_last_week>
+  <description>Gas Pedal by Sage The Gemini Featuring IamSu ranks #29</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>30: Round Here</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Florida Georgia Line</artist>
+  <chart_item_title>Round Here</chart_item_title>
+  <rank_this_week>30</rank_this_week>
+  <rank_last_week>36</rank_last_week>
+  <description>Round Here by Florida Georgia Line ranks #30</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>31: Brave</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Sara Bareilles</artist>
+  <chart_item_title>Brave</chart_item_title>
+  <rank_this_week>31</rank_this_week>
+  <rank_last_week>46</rank_last_week>
+  <description>Brave by Sara Bareilles ranks #31</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>32: Come &amp; Get It</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Selena Gomez</artist>
+  <chart_item_title>Come &amp; Get It</chart_item_title>
+  <rank_this_week>32</rank_this_week>
+  <rank_last_week>31</rank_last_week>
+  <description>Come &amp; Get It by Selena Gomez ranks #32</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>33: Night Train</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Jason Aldean</artist>
+  <chart_item_title>Night Train</chart_item_title>
+  <rank_this_week>33</rank_this_week>
+  <rank_last_week>42</rank_last_week>
+  <description>Night Train by Jason Aldean ranks #33</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>34: Don&#039;t Ya</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Brett Eldredge</artist>
+  <chart_item_title>Don&#039;t Ya</chart_item_title>
+  <rank_this_week>34</rank_this_week>
+  <rank_last_week>32</rank_last_week>
+  <description>Don&#039;t Ya by Brett Eldredge ranks #34</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>35: Little Bit Of Everything</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Keith Urban</artist>
+  <chart_item_title>Little Bit Of Everything</chart_item_title>
+  <rank_this_week>35</rank_this_week>
+  <rank_last_week>33</rank_last_week>
+  <description>Little Bit Of Everything by Keith Urban ranks #35</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>36: It Goes Like This</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Thomas Rhett</artist>
+  <chart_item_title>It Goes Like This</chart_item_title>
+  <rank_this_week>36</rank_this_week>
+  <rank_last_week>40</rank_last_week>
+  <description>It Goes Like This by Thomas Rhett ranks #36</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>37: See You Again</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Carrie Underwood</artist>
+  <chart_item_title>See You Again</chart_item_title>
+  <rank_this_week>37</rank_this_week>
+  <rank_last_week>34</rank_last_week>
+  <description>See You Again by Carrie Underwood ranks #37</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>38: Crash My Party</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Luke Bryan</artist>
+  <chart_item_title>Crash My Party</chart_item_title>
+  <rank_this_week>38</rank_this_week>
+  <rank_last_week>22</rank_last_week>
+  <description>Crash My Party by Luke Bryan ranks #38</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>39: Stay</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Rihanna Featuring Mikky Ekko</artist>
+  <chart_item_title>Stay</chart_item_title>
+  <rank_this_week>39</rank_this_week>
+  <rank_last_week>44</rank_last_week>
+  <description>Stay by Rihanna Featuring Mikky Ekko ranks #39</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>40: Thrift Shop</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Macklemore &amp; Ryan Lewis Featuring Wanz</artist>
+  <chart_item_title>Thrift Shop</chart_item_title>
+  <rank_this_week>40</rank_this_week>
+  <rank_last_week>39</rank_last_week>
+  <description>Thrift Shop by Macklemore &amp; Ryan Lewis Featuring Wanz ranks #40</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>41: I Want Crazy</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Hunter Hayes</artist>
+  <chart_item_title>I Want Crazy</chart_item_title>
+  <rank_this_week>41</rank_this_week>
+  <rank_last_week>30</rank_last_week>
+  <description>I Want Crazy by Hunter Hayes ranks #41</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>42: Power Trip</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>J. Cole Featuring Miguel</artist>
+  <chart_item_title>Power Trip</chart_item_title>
+  <rank_this_week>42</rank_this_week>
+  <rank_last_week>38</rank_last_week>
+  <description>Power Trip by J. Cole Featuring Miguel ranks #42</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>43: Redneck Crazy</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Tyler Farr</artist>
+  <chart_item_title>Redneck Crazy</chart_item_title>
+  <rank_this_week>43</rank_this_week>
+  <rank_last_week>47</rank_last_week>
+  <description>Redneck Crazy by Tyler Farr ranks #43</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>44: Take Back The Night</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Justin Timberlake</artist>
+  <chart_item_title>Take Back The Night</chart_item_title>
+  <rank_this_week>44</rank_this_week>
+  <rank_last_week>43</rank_last_week>
+  <description>Take Back The Night by Justin Timberlake ranks #44</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>45: Runnin&#039; Outta Moonlight</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Randy Houser</artist>
+  <chart_item_title>Runnin&#039; Outta Moonlight</chart_item_title>
+  <rank_this_week>45</rank_this_week>
+  <rank_last_week>37</rank_last_week>
+  <description>Runnin&#039; Outta Moonlight by Randy Houser ranks #45</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>46: Body Party</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Ciara</artist>
+  <chart_item_title>Body Party</chart_item_title>
+  <rank_this_week>46</rank_this_week>
+  <rank_last_week>41</rank_last_week>
+  <description>Body Party by Ciara ranks #46</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>47: Crooked Smile</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>J. Cole Featuring TLC</artist>
+  <chart_item_title>Crooked Smile</chart_item_title>
+  <rank_this_week>47</rank_this_week>
+  <rank_last_week>50</rank_last_week>
+  <description>Crooked Smile by J. Cole Featuring TLC ranks #47</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>48: Beware</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Big Sean Featuring Lil Wayne &amp; Jhene Aiko</artist>
+  <chart_item_title>Beware</chart_item_title>
+  <rank_this_week>48</rank_this_week>
+  <rank_last_week>59</rank_last_week>
+  <description>Beware by Big Sean Featuring Lil Wayne &amp; Jhene Aiko ranks #48</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>49: Still Into You</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Paramore</artist>
+  <chart_item_title>Still Into You</chart_item_title>
+  <rank_this_week>49</rank_this_week>
+  <rank_last_week>45</rank_last_week>
+  <description>Still Into You by Paramore ranks #49</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>50: Wrecking Ball</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Miley Cyrus</artist>
+  <chart_item_title>Wrecking Ball</chart_item_title>
+  <rank_this_week>50</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Wrecking Ball by Miley Cyrus ranks #50</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>51: Everything Has Changed</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Taylor Swift Featuring Ed Sheeran</artist>
+  <chart_item_title>Everything Has Changed</chart_item_title>
+  <rank_this_week>51</rank_this_week>
+  <rank_last_week>56</rank_last_week>
+  <description>Everything Has Changed by Taylor Swift Featuring Ed Sheeran ranks #51</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>52: Love More</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Chris Brown Featuring Nicki Minaj</artist>
+  <chart_item_title>Love More</chart_item_title>
+  <rank_this_week>52</rank_this_week>
+  <rank_last_week>73</rank_last_week>
+  <description>Love More by Chris Brown Featuring Nicki Minaj ranks #52</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>53: All Over The Road</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Easton Corbin</artist>
+  <chart_item_title>All Over The Road</chart_item_title>
+  <rank_this_week>53</rank_this_week>
+  <rank_last_week>54</rank_last_week>
+  <description>All Over The Road by Easton Corbin ranks #53</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>54: Counting Stars</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>OneRepublic</artist>
+  <chart_item_title>Counting Stars</chart_item_title>
+  <rank_this_week>54</rank_this_week>
+  <rank_last_week>57</rank_last_week>
+  <description>Counting Stars by OneRepublic ranks #54</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>55: U.O.E.N.O.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Rocko Featuring Future &amp; Rick Ross</artist>
+  <chart_item_title>U.O.E.N.O.</chart_item_title>
+  <rank_this_week>55</rank_this_week>
+  <rank_last_week>53</rank_last_week>
+  <description>U.O.E.N.O. by Rocko Featuring Future &amp; Rick Ross ranks #55</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>56: Hey Girl</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Billy Currington</artist>
+  <chart_item_title>Hey Girl</chart_item_title>
+  <rank_this_week>56</rank_this_week>
+  <rank_last_week>55</rank_last_week>
+  <description>Hey Girl by Billy Currington ranks #56</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>57: Type Of Way</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Rich Homie Quan</artist>
+  <chart_item_title>Type Of Way</chart_item_title>
+  <rank_this_week>57</rank_this_week>
+  <rank_last_week>63</rank_last_week>
+  <description>Type Of Way by Rich Homie Quan ranks #57</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>58: Don&#039;t Drop That Thun Thun!</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>The FiNATTiCZ</artist>
+  <chart_item_title>Don&#039;t Drop That Thun Thun!</chart_item_title>
+  <rank_this_week>58</rank_this_week>
+  <rank_last_week>52</rank_last_week>
+  <description>Don&#039;t Drop That Thun Thun! by The FiNATTiCZ ranks #58</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>59: True Love</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>P!nk Featuring Lily Allen</artist>
+  <chart_item_title>True Love</chart_item_title>
+  <rank_this_week>59</rank_this_week>
+  <rank_last_week>60</rank_last_week>
+  <description>True Love by P!nk Featuring Lily Allen ranks #59</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>60: Mine Would Be You</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Blake Shelton</artist>
+  <chart_item_title>Mine Would Be You</chart_item_title>
+  <rank_this_week>60</rank_this_week>
+  <rank_last_week>65</rank_last_week>
+  <description>Mine Would Be You by Blake Shelton ranks #60</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>61: Turn The Night Up</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Enrique Iglesias</artist>
+  <chart_item_title>Turn The Night Up</chart_item_title>
+  <rank_this_week>61</rank_this_week>
+  <rank_last_week>72</rank_last_week>
+  <description>Turn The Night Up by Enrique Iglesias ranks #61</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>62: Let Her Go</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Passenger</artist>
+  <chart_item_title>Let Her Go</chart_item_title>
+  <rank_this_week>62</rank_this_week>
+  <rank_last_week>74</rank_last_week>
+  <description>Let Her Go by Passenger ranks #62</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>63: Point At You</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Justin Moore</artist>
+  <chart_item_title>Point At You</chart_item_title>
+  <rank_this_week>63</rank_this_week>
+  <rank_last_week>62</rank_last_week>
+  <description>Point At You by Justin Moore ranks #63</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>64: Southern Girl</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Tim McGraw</artist>
+  <chart_item_title>Southern Girl</chart_item_title>
+  <rank_this_week>64</rank_this_week>
+  <rank_last_week>64</rank_last_week>
+  <description>Southern Girl by Tim McGraw ranks #64</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>65: Tapout</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine, Nicki Minaj</artist>
+  <chart_item_title>Tapout</chart_item_title>
+  <rank_this_week>65</rank_this_week>
+  <rank_last_week>58</rank_last_week>
+  <description>Tapout by Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine, Nicki Minaj ranks #65</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>66: Red Nose</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Sage The Gemini</artist>
+  <chart_item_title>Red Nose</chart_item_title>
+  <rank_this_week>66</rank_this_week>
+  <rank_last_week>61</rank_last_week>
+  <description>Red Nose by Sage The Gemini ranks #66</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>67: Feds Watching</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>2 Chainz Featuring Pharrell</artist>
+  <chart_item_title>Feds Watching</chart_item_title>
+  <rank_this_week>67</rank_this_week>
+  <rank_last_week>70</rank_last_week>
+  <description>Feds Watching by 2 Chainz Featuring Pharrell ranks #67</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>68: Parking Lot Party</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lee Brice</artist>
+  <chart_item_title>Parking Lot Party</chart_item_title>
+  <rank_this_week>68</rank_this_week>
+  <rank_last_week>67</rank_last_week>
+  <description>Parking Lot Party by Lee Brice ranks #68</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>69: Beneath Your Beautiful</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Labrinth Featuring Emeli Sande</artist>
+  <chart_item_title>Beneath Your Beautiful</chart_item_title>
+  <rank_this_week>69</rank_this_week>
+  <rank_last_week>66</rank_last_week>
+  <description>Beneath Your Beautiful by Labrinth Featuring Emeli Sande ranks #69</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>70: Aw Naw</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Chris Young</artist>
+  <chart_item_title>Aw Naw</chart_item_title>
+  <rank_this_week>70</rank_this_week>
+  <rank_last_week>71</rank_last_week>
+  <description>Aw Naw by Chris Young ranks #70</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>71: HeadBand</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>B.o.B Featuring 2 Chainz</artist>
+  <chart_item_title>HeadBand</chart_item_title>
+  <rank_this_week>71</rank_this_week>
+  <rank_last_week>68</rank_last_week>
+  <description>HeadBand by B.o.B Featuring 2 Chainz ranks #71</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>72: Sweater Weather</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>The Neighbourhood</artist>
+  <chart_item_title>Sweater Weather</chart_item_title>
+  <rank_this_week>72</rank_this_week>
+  <rank_last_week>75</rank_last_week>
+  <description>Sweater Weather by The Neighbourhood ranks #72</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>73: Ain&#039;t Worried About Nothin</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>French Montana</artist>
+  <chart_item_title>Ain&#039;t Worried About Nothin</chart_item_title>
+  <rank_this_week>73</rank_this_week>
+  <rank_last_week>69</rank_last_week>
+  <description>Ain&#039;t Worried About Nothin by French Montana ranks #73</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>74: How Many Drinks?</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Miguel</artist>
+  <chart_item_title>How Many Drinks?</chart_item_title>
+  <rank_this_week>74</rank_this_week>
+  <rank_last_week>76</rank_last_week>
+  <description>How Many Drinks? by Miguel ranks #74</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>75: Tom Ford</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Jay Z</artist>
+  <chart_item_title>Tom Ford</chart_item_title>
+  <rank_this_week>75</rank_this_week>
+  <rank_last_week>77</rank_last_week>
+  <description>Tom Ford by Jay Z ranks #75</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>76: Miss Movin&#039; On</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Fifth Harmony</artist>
+  <chart_item_title>Miss Movin&#039; On</chart_item_title>
+  <rank_this_week>76</rank_this_week>
+  <rank_last_week>78</rank_last_week>
+  <description>Miss Movin&#039; On by Fifth Harmony ranks #76</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>77: Replay</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Zendaya</artist>
+  <chart_item_title>Replay</chart_item_title>
+  <rank_this_week>77</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Replay by Zendaya ranks #77</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>78: Darte Un Beso</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Prince Royce</artist>
+  <chart_item_title>Darte Un Beso</chart_item_title>
+  <rank_this_week>78</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Darte Un Beso by Prince Royce ranks #78</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>79: Bruises</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Train Featuring Ashley Monroe</artist>
+  <chart_item_title>Bruises</chart_item_title>
+  <rank_this_week>79</rank_this_week>
+  <rank_last_week>97</rank_last_week>
+  <description>Bruises by Train Featuring Ashley Monroe ranks #79</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>80: Young And Beautiful</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lana Del Rey</artist>
+  <chart_item_title>Young And Beautiful</chart_item_title>
+  <rank_this_week>80</rank_this_week>
+  <rank_last_week>88</rank_last_week>
+  <description>Young And Beautiful by Lana Del Rey ranks #80</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>81: Goodbye Town</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lady Antebellum</artist>
+  <chart_item_title>Goodbye Town</chart_item_title>
+  <rank_this_week>81</rank_this_week>
+  <rank_last_week>82</rank_last_week>
+  <description>Goodbye Town by Lady Antebellum ranks #81</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>82: Acapella</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Karmin</artist>
+  <chart_item_title>Acapella</chart_item_title>
+  <rank_this_week>82</rank_this_week>
+  <rank_last_week>80</rank_last_week>
+  <description>Acapella by Karmin ranks #82</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>83: Give It 2 U</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Robin Thicke Featuring Kendrick Lamar</artist>
+  <chart_item_title>Give It 2 U</chart_item_title>
+  <rank_this_week>83</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Give It 2 U by Robin Thicke Featuring Kendrick Lamar ranks #83</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>84: Almost Is Never Enough</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Ariana Grande Featuring Nathan Sykes</artist>
+  <chart_item_title>Almost Is Never Enough</chart_item_title>
+  <rank_this_week>84</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Almost Is Never Enough by Ariana Grande Featuring Nathan Sykes ranks #84</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>85: Wildfire</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>John Mayer</artist>
+  <chart_item_title>Wildfire</chart_item_title>
+  <rank_this_week>85</rank_this_week>
+  <rank_last_week>98</rank_last_week>
+  <description>Wildfire by John Mayer ranks #85</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>86: Red</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Taylor Swift</artist>
+  <chart_item_title>Red</chart_item_title>
+  <rank_this_week>86</rank_this_week>
+  <rank_last_week>85</rank_last_week>
+  <description>Red by Taylor Swift ranks #86</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>87: Pompeii</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Bastille</artist>
+  <chart_item_title>Pompeii</chart_item_title>
+  <rank_this_week>87</rank_this_week>
+  <rank_last_week>95</rank_last_week>
+  <description>Pompeii by Bastille ranks #87</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>88: No New Friends (SFTB Remix)</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>DJ Khaled Featuring Drake, Rick Ross &amp; Lil Wayne</artist>
+  <chart_item_title>No New Friends (SFTB Remix)</chart_item_title>
+  <rank_this_week>88</rank_this_week>
+  <rank_last_week>79</rank_last_week>
+  <description>No New Friends (SFTB Remix) by DJ Khaled Featuring Drake, Rick Ross &amp; Lil Wayne ranks #88</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>89: Hail To The King</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Avenged Sevenfold</artist>
+  <chart_item_title>Hail To The King</chart_item_title>
+  <rank_this_week>89</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Hail To The King by Avenged Sevenfold ranks #89</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>90: When I See This Bar</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kenny Chesney</artist>
+  <chart_item_title>When I See This Bar</chart_item_title>
+  <rank_this_week>90</rank_this_week>
+  <rank_last_week>89</rank_last_week>
+  <description>When I See This Bar by Kenny Chesney ranks #90</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>91: Wop</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>J. Dash</artist>
+  <chart_item_title>Wop</chart_item_title>
+  <rank_this_week>91</rank_this_week>
+  <rank_last_week>83</rank_last_week>
+  <description>Wop by J. Dash ranks #91</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>92: F*ckwithmeyouknowigotit</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Jay Z Featuring Rick Ross</artist>
+  <chart_item_title>F*ckwithmeyouknowigotit</chart_item_title>
+  <rank_this_week>92</rank_this_week>
+  <rank_last_week>91</rank_last_week>
+  <description>F*ckwithmeyouknowigotit by Jay Z Featuring Rick Ross ranks #92</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>93: Easy</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Sheryl Crow</artist>
+  <chart_item_title>Easy</chart_item_title>
+  <rank_this_week>93</rank_this_week>
+  <rank_last_week>84</rank_last_week>
+  <description>Easy by Sheryl Crow ranks #93</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>94: Slow Down</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Selena Gomez</artist>
+  <chart_item_title>Slow Down</chart_item_title>
+  <rank_this_week>94</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Slow Down by Selena Gomez ranks #94</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>95: #Beautiful</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Mariah Carey Featuring Miguel</artist>
+  <chart_item_title>#Beautiful</chart_item_title>
+  <rank_this_week>95</rank_this_week>
+  <rank_last_week>86</rank_last_week>
+  <description>#Beautiful by Mariah Carey Featuring Miguel ranks #95</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>96: Helluva Night</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Ludacris</artist>
+  <chart_item_title>Helluva Night</chart_item_title>
+  <rank_this_week>96</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Helluva Night by Ludacris ranks #96</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>97: Crazy Kids</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Ke$ha Featuring will.i.am Or Juicy J</artist>
+  <chart_item_title>Crazy Kids</chart_item_title>
+  <rank_this_week>97</rank_this_week>
+  <rank_last_week>81</rank_last_week>
+  <description>Crazy Kids by Ke$ha Featuring will.i.am Or Juicy J ranks #97</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>98: LoveHate Thing</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Wale Featuring Sam Dew</artist>
+  <chart_item_title>LoveHate Thing</chart_item_title>
+  <rank_this_week>98</rank_this_week>
+  <rank_last_week>93</rank_last_week>
+  <description>LoveHate Thing by Wale Featuring Sam Dew ranks #98</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>99: Beat It</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Sean Kingston Featuring Chris Brown &amp; Wiz Khalifa</artist>
+  <chart_item_title>Beat It</chart_item_title>
+  <rank_this_week>99</rank_this_week>
+  <rank_last_week>92</rank_last_week>
+  <description>Beat It by Sean Kingston Featuring Chris Brown &amp; Wiz Khalifa ranks #99</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>100: American Girl</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Bonnie McKee</artist>
+  <chart_item_title>American Girl</chart_item_title>
+  <rank_this_week>100</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>American Girl by Bonnie McKee ranks #100</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 07 Sep 2013 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+  </channel>
+</rss>
